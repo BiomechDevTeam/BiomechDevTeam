@@ -20,6 +20,6 @@ Feel free to reach out to our team via:
 
 **Ali Zolfaghari Sichani:** Email: zolfaghari1992iut@gmail.com, GitHub: @Ali_Debugger
 
-**Majid Jadidi:** Email: , GitHub: @MajidJadidi
+**Majid Jadidi:** Email: majidjadidi1@gmail.com, GitHub: @MajidJadidi
 
 
