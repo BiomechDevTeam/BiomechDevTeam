@@ -16,10 +16,10 @@ MATLAB, Python, C, C++, C#
 
 Feel free to reach out to our team via: 
 
-**Sayed Ahmadreza Razian:** Email: GitHub: @ahmadrezarazian
+**Sayed Ahmadreza Razian**   Email:                            , GitHub: @ahmadrezarazian
 
-**Ali Zolfaghari Sichani:** Email: zolfaghari1992iut@gmail.com, GitHub: @Ali_Debugger
+**Ali Zolfaghari Sichani**   Email: zolfaghari1992iut@gmail.com, GitHub: @Ali_Debugger
 
-**Majid Jadidi:** Email: majidjadidi1@gmail.com, GitHub: @MajidJadidi
+**Majid Jadidi**             Email: majidjadidi1@gmail.com     , GitHub: @MajidJadidi
 
 
