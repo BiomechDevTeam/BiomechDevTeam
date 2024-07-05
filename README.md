@@ -15,8 +15,11 @@ MATLAB, Python, C, C++, C#
 📫 **Get in Touch**
 
 Feel free to reach out to our team via: 
+
 Email: GitHub: @ahmadrezarazian
+
 Email: zolfaghari1992iut@gmail.com, GitHub: @Ali_Debugger
+
 Email: , GitHub: @MajidJadidi
 
 
